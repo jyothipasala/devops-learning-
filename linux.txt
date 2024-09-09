@@ -3,4 +3,4 @@ pwd
 cd
 touch
 cd.
-chmode
+ls -la

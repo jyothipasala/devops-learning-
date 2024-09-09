@@ -1,0 +1,17 @@
+
+# this file is used to say abaout the devops tools learnig 
+
+1) k8s
+2) docker
+3) maven
+4) sonarqube
+5)git
+6) github
+7) grafana
+8) kibana
+9)elk
+10) terraform
+11) ansibile
+12) jenkins 
+13) linux
+14) logs

@@ -5,4 +5,4 @@ service account
 firewalls
 vpc peering
 vpc sharing
- 
+ network tag
