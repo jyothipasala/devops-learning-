@@ -1,0 +1,6 @@
+mkdir
+pwd
+cd
+touch
+cd.
+chmode
