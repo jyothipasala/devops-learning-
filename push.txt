@@ -1,1 +1,10 @@
-linux commands  :
+linux comman
+ mkdir: make a directory
+mkdir dir2 :create indivisual directory
+ls :list of the directory
+cd dir1 :change the directory/swich the directory
+mkdir-p src/com/jyothi :create multipul direc go to the flow
+sudo apt install tree :view the directory
+touch 1txt :create a folder
+vi folder name :modify the data
+sk:wq  :save the data
