@@ -1,3 +1,4 @@
+14-9-2024
 linux comman
  mkdir: make a directory
 mkdir dir2 :create indivisual directory
@@ -8,3 +9,9 @@ sudo apt install tree :view the directory
 touch 1txt :create a folder
 vi folder name :modify the data
 sk:wq  :save the data
+15-9.2024
+uptime :start time to still know
+cat /etc /*rel* : terminal and type
+uname -a :Displays detailed information about the system kernel and architecture
+df -h :disk spece usege
+free -h :Shows the amount of free and used memory in the system.
