@@ -15,3 +15,7 @@ cat /etc /*rel* : terminal and type
 uname -a :Displays detailed information about the system kernel and architecture
 df -h :disk spece usege
 free -h :Shows the amount of free and used memory in the system.
+system cmd :
+systeminfo |find "system Boot time" :system information
+tasklist :list of tasklist
+taskkill /pid 123 :kill the prosess id
