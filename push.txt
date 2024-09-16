@@ -19,3 +19,4 @@ system cmd :
 systeminfo |find "system Boot time" :system information
 tasklist :list of tasklist
 taskkill /pid 123 :kill the prosess id
+# this is for testing 
